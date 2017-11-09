@@ -1,6 +1,6 @@
 1. What is the most influential book or blog post you’ve read regarding web development?
 
-As a web developer, I’ve read a broad selection of works within web development. This ranges from books on different computer languages to stack overflow. As for the most influential work I’ve read regarding web development, I would have to say my friend recommending me to check out Udacity was the corner stone to my journey as a web developer.
+As a web developer, I read a broad selection of works that discuss web development. This ranges from books on different computer languages to stack overflow. As for the most influential work I’ve read regarding web development, I would have to say my friend recommending me to check out Udacity was the corner stone to my journey as a web developer.
 
 It was right after I graduated from college and I only had a minor in computer science. I wanted to pursue web development as my full time job but felt as if my minor wasn’t enough. My friend who is a web developer told me to look into this online schooling called “Udacity” as they offer a large selection of courses regarding computer science. I went to the Udacity website and I was immediately hooked. I took the free python developer class and after I finished that I went straight into the Full Stack Nanodegree. As I am finishing my Nanodegree, I am now as confident as ever that web development is the field that I am going to pursue as my career.
 
