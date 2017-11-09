@@ -27,7 +27,7 @@ Prevent: To prevent this type of attack your website should filter all user inpu
 
 5.  Write a function in Python that takes a list of strings and returns a single string that is an HTML unordered list (<ul>...</ul>) of those strings. You should include a brief explanation of your code. Then, what would you have to consider if the original list was provided by user input?
 
-# create function with argument called strings
+```# create function with argument called strings
 def html_list(strings):
     print("<ul>")
 # Iterate over strings
@@ -39,10 +39,11 @@ def html_list(strings):
 bands = ['Foo Fighters', 'Nirvana', 'Audio Slave', 'Kings of Leon']
 # execute function with list
 html_list(bands)
+```
 
 6. Here is some starter code for a Flask Web Application. Expand on that and include a route that simulates rolling two dice and returns the result in JSON. You should include a brief explanation of your code.
 
-from flask import Flask
+``` from flask import Flask
 app = Flask(__name__)
 
 import json
@@ -68,3 +69,4 @@ def roll_dice():
 if __name__ == '__main__':
  app.debug = True
  app.run()
+ ```
